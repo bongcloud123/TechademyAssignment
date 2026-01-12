@@ -1,0 +1,14 @@
+
+*.log
+
+
+temp.txt
+secret.txt
+
+
+build/
+__pycache__/
+*.pyc
+
+
+.vscode/
